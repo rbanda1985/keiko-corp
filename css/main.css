@@ -857,10 +857,6 @@ footer .copyright a{
 		margin-left: 0;
 	}
 
-	.hero {
-		background: url('../img/hero.avif') no-repeat fixed center center;
-	}
-
 	.app_store_btn{
 		display: block;
 		width: 90%;
