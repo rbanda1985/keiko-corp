@@ -792,18 +792,6 @@ footer .copyright a{
 		display: block;
 		width: 100%;
 	}
-
-	.hero {
-		background: url('../img/hero.avif') no-repeat fixed center center;
-	}
-
-	.logo-image {
-		background-image: '../img/logo.avif';
-	}
-
-	.iphone-image {
-		background-image: '../img/iphone.avif';
-	}
 }
 
 @media (max-width: 767px) {
@@ -879,15 +867,6 @@ footer .copyright a{
 		padding-left: 0;
 		padding-right: 0;
 		text-align: center;
-	}
-
-
-	.logo-image {
-		background-image: '../img/logo.avif';
-	}
-
-	.iphone-image {
-		background-image: '../img/iphone.avif';
 	}
 
 
